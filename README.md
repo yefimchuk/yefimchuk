@@ -1,8 +1,12 @@
- <p display=flex; text-align=center; align=center>
+  <p  align="center"> <img src="501fc70d39d88f32ce870dfae7bc144f.gif" />
 
-  [![codewars](https://www.codewars.com/users/yefimchuk/badges/large)](https://www.codewars.com/users/yefimchuk) 
-  [![Anurag's GitHub stats](501fc70d39d88f32ce870dfae7bc144f.gif)
-    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-  </p>
+<div display=flex; align-items=flex-start; flex-direction=row;>
+  <p align="center"	>  <img  src="https://www.codewars.com/users/yefimchuk/badges/large" alt="https://www.codewars.com/users/yefimchuk" />
 
-![](github-contribution-grid-snake.svg)
+   <p align="center"	> <img src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark" alt="https://github.com/KnlnKS/leetcode-stats" />
+   <img  src="https://github-readme-stackoverflow.vercel.app/?userID=17754802&theme=dark" alt="https://stackoverflow.com/users/17754802/yefimchuk" />
+</div>
+
+   <p  align="center"> <img src="github-contribution-grid-snake.svg" />
+  </div>
+
