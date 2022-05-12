@@ -1,4 +1,3 @@
-  <p  align="center"> <img src="501fc70d39d88f32ce870dfae7bc144f.gif" />
 
 <div display=flex; align-items=flex-start; flex-direction=row;>
   <p align="center"	>  <img  src="https://www.codewars.com/users/yefimchuk/badges/large" alt="https://www.codewars.com/users/yefimchuk" />
