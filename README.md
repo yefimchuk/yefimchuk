@@ -5,7 +5,5 @@
    <p align="center"	> <img src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark" alt="https://github.com/KnlnKS/leetcode-stats" />
    <img  src="https://github-readme-stackoverflow.vercel.app/?userID=17754802&theme=dark" alt="https://stackoverflow.com/users/17754802/yefimchuk" />
 </div>
-
-   <p  align="center"> <img src="github-contribution-grid-snake.svg" />
   </div>
 
